@@ -1,5 +1,15 @@
 # @backstage/plugin-graphql-backend
 
+## 0.1.15
+
+### Patch Changes
+
+- c77c5c7eb6: Added `backstage.role` to `package.json`
+- Updated dependencies
+  - @backstage/backend-common@0.10.8
+  - @backstage/plugin-catalog-graphql@0.3.2
+  - @backstage/config@0.1.14
+
 ## 0.1.14
 
 ### Patch Changes

@@ -1,5 +1,16 @@
 # @backstage/plugin-app-backend
 
+## 0.3.25
+
+### Patch Changes
+
+- c77c5c7eb6: Added `backstage.role` to `package.json`
+- Updated dependencies
+  - @backstage/backend-common@0.10.8
+  - @backstage/config-loader@0.9.4
+  - @backstage/config@0.1.14
+  - @backstage/types@0.1.2
+
 ## 0.3.24
 
 ### Patch Changes
